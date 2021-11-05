@@ -10,9 +10,10 @@ My name is Pedro Henrique Ferreti, Vue.js Mid-Level developer.
 
 ## Some of my finest work :sparkles:
 
+* [SCD](https://appscd.netlify.app/) - A dancing contests app.
+* [FrontX 002 - Artist Profile](https://frontx-002.vercel.app/) - The second FrontX challenge: An artist profile landing page. 
 * [PhotoArt](https://photoart-lab.firebaseapp.com/) - A vannila HTML/CSS/JavaScript website.
 * [Ferrari Car Services](https://ferrari-firebase.web.app/index.html) - Ferrari services.
-* [Find a Coach App](https://find-a-coach-app-8c701.web.app/coaches) - A Single Page Application made with Vue.js.
 * [WD Blog](https://github.com/Pedro-Henrique-Ferreti/wd-developer-blog) - My first Nuxt.js project!
 
 ## Cool Facts :smiley:
