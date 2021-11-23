@@ -11,6 +11,7 @@ My name is Pedro Henrique Ferreti, Vue.js Mid-Level developer.
 ## Some of my finest work :sparkles:
 
 * [SCD](https://appscd.netlify.app/) - A dancing contests app.
+* [Halloween Website](https://pedro-halloween-website.vercel.app/) - A Halloween website made with HTML, CSS, and JavaScript only. 
 * [FrontX 002 - Artist Profile](https://frontx-002.vercel.app/) - The second FrontX challenge: An artist profile landing page. 
 * [PhotoArt](https://photoart-lab.firebaseapp.com/) - A vannila HTML/CSS/JavaScript website.
 * [Ferrari Car Services](https://ferrari-firebase.web.app/index.html) - Ferrari services.
