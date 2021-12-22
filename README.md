@@ -1,6 +1,6 @@
 ### Hello there :wave:
 
-My name is Pedro Henrique Ferreti, Vue.js Mid-Level developer.
+My name is Pedro Henrique Ferreti, I am a Vue.js developer.
 
 ## Education :mortar_board:
 
