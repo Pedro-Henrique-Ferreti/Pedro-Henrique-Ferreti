@@ -11,8 +11,9 @@ My name is Pedro Henrique Ferreti, I am a Vue.js developer.
 ## Some of my finest work :sparkles:
 
 * [SCD](https://appscd.netlify.app/) - A dancing contests app.
-* [Halloween Website](https://pedro-halloween-website.vercel.app/) - A Halloween website made with HTML, CSS, and JavaScript only. 
-* [FrontX 002 - Artist Profile](https://frontx-002.vercel.app/) - The second FrontX challenge: An artist profile landing page. 
+* [Halloween Website](https://pedro-halloween-website.vercel.app/) - A Halloween website made with HTML, CSS, and JavaScript only.
+* [Hogwarts School](https://github.com/Pedro-Henrique-Ferreti/hogwarts-school) - A website inspired by the popular Harry Potter series.
+* [FrontX 002 - Artist Profile](https://frontx-002.vercel.app/) - The second FrontX challenge: an artist profile landing page. 
 * [PhotoArt](https://photoart-lab.firebaseapp.com/) - A vannila HTML/CSS/JavaScript website.
 * [Ferrari Car Services](https://ferrari-firebase.web.app/index.html) - Ferrari services.
 * [WD Blog](https://github.com/Pedro-Henrique-Ferreti/wd-developer-blog) - My first Nuxt.js project!
