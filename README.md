@@ -7,7 +7,7 @@ I’m a highly proactive developer with a commitment to continuous learning and 
 ## Some of my work:
 
 * [Bistro Bliss](https://bistrobliss-restaurant.netlify.app/) - A restaurant website built with Vue.js 3 and Tailwind CSS 4.
-* [Helio Barbershop](https://helio-barbearia.netlify.app/login) - A barbershop website for scheduling and managing appointments with your barber.
+* [Helio Barbershop](https://helio-barbearia.netlify.app/) - A barbershop website for scheduling and managing appointments with your barber.
 * [Halloween Website](https://pedro-halloween-website.vercel.app/) - A Halloween website made with HTML, CSS, and JavaScript.
 * [Hogwarts School](https://hogwarts-school-of-wizardry.vercel.app/) - A website inspired by the popular Harry Potter series.
 
