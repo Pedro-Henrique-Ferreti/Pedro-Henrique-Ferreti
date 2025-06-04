@@ -1,8 +1,10 @@
 # Overview
 
-My name is Pedro Henrique Ferreti. I'm a web developer with over 5 years of front-end experience creating responsive and accessible websites using high-quality code. I'm a specialist in the Vue.js framework and its ecosystem, with a strong knowledge of web design, UI, and UX principles. I can perform system analysis tasks, such as identifying business requirements and translating them into software documents.
+My name is Pedro Souza. I am a software engineer with over 5 years of experience in developing innovative and easy-to-maintain front-end solutions. My passion for creating user interfaces that are not only functional but also pleasant and accessible leads me to seek the best practices in design and development. I have expertise in Vue.js and its ecosystem (Vuex, Pinia, VueRouter, TypeScript), along with a solid knowledge of web design, UI/UX, and modern methodologies such as SASS and Tailwind CSS.
 
-I’m a highly proactive developer with a commitment to continuous learning and execution. What motivates me is the opportunity to craft intuitive, visually engaging web interfaces that provide outstanding user experiences. I take pride in building clean, maintainable codebases that adhere to modern best practices, believing that well-structured code is the foundation of scalable and efficient web applications. My passion lies in bridging design and functionality—transforming creative ideas into responsive, high-quality frontend solutions.
+I’m highly proactive and committed to continuous learning. What motivates me is the opportunity to craft intuitive, visually engaging web interfaces that provide outstanding user experiences. I'm also motivated by writing clean and maintainable codebases: for me, a well-structured codebase is the foundation of scalable and efficient software applications. My passion lies in bridging design and functionality — transforming creative ideas into responsive, high-quality frontend solutions.
+
+Beyond programming, I'm always pursuing personal and professional growth. My favorite hobby is learning about History and discussing historical events and their significance for the world we live in.
 
 ## Some of my work:
 
